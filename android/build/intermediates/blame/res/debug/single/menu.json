@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/HannahFlipside/AndroidStudioProjects/ApplicationThree/android/build/intermediates/res/merged/debug/menu/encode.xml",
+        "source": "/Users/HannahFlipside/AndroidStudioProjects/ApplicationThree/android/src/main/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/HannahFlipside/AndroidStudioProjects/ApplicationThree/android/build/intermediates/res/merged/debug/menu/history.xml",
+        "source": "/Users/HannahFlipside/AndroidStudioProjects/ApplicationThree/android/src/main/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/HannahFlipside/AndroidStudioProjects/ApplicationThree/android/build/intermediates/res/merged/debug/menu/capture.xml",
+        "source": "/Users/HannahFlipside/AndroidStudioProjects/ApplicationThree/android/src/main/res/menu/capture.xml"
+    }
+]
